@@ -3,3 +3,6 @@ https://www.jurnalanas.com/node-js-mac-m1/
 
 Uninstall node 
 https://www.positronx.io/how-to-uninstall-node-js-and-npm-from-macos/
+
+Note:
+Remember to use the command ```rm -rf .git``` in the root of project
